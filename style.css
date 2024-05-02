@@ -36,13 +36,15 @@ padding: 10px 150px;
 .one {
 display: flex;
 background: #1F2937;
-justify-content: space-between;
-
 padding: 100px 150px;
+justify-content: space-between;
+flex-wrap: wrap;
 }
 
 .one-one{
     gap: 24px;
+    width: 600px;
+    padding-right: 40px;
     }
 
 .main-text {
